@@ -1,0 +1,10 @@
+{
+  "id": "com.pizzapowered.webos.medit",
+  "version": "0.0.1",
+  "vendor": "PizzaPowered",
+  "vendorurl": "http://pizzapowered.com/",
+  "type": "web",
+  "main": "index.html",
+  "title": "MEdit",
+  "uiRevision": "2"
+}
